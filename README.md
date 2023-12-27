@@ -1,6 +1,6 @@
 # taskerist
 
-Task with report manager.
+Task with report manager using Flutter and sqflite.
 
 This is an ongoing project. Feel free to use the code.
 
